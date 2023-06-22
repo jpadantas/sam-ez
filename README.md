@@ -85,4 +85,4 @@ The pr_builder_kfold.R script is an R script and can be run using any R environm
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
