@@ -1,5 +1,8 @@
 # README.md
 
+> **Paper, PDF and citation:** [joaopadantas.com/publications/dantas2023real](https://www.joaopadantas.com/publications/dantas2023real/)
+
+
 ---
 
 ## Real-Time Surface-to-Air Missile Engagement Zone Prediction Using Simulation and Machine Learning
